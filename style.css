@@ -182,8 +182,4 @@ input{
     display: grid;
     grid-template-columns: 1fr;
   }
-  form input{
-      display: grid;
-      grid-template-columns: 1fr;
-  }
 }
