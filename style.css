@@ -164,4 +164,9 @@ input{
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-gap: 90px;
   }
+  .about-me p {
+    text-align: center;
+    width: 50%;
+    align-content: center;
+  }
 }
