@@ -178,4 +178,10 @@ input{
     height: 7rem;
     border: 2px solid #4F4F4F;
   }
+  .input-group{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 100px;
+    margin: 4rem;
+  }
 }
