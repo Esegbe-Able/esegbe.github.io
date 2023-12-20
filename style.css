@@ -182,4 +182,9 @@ input{
     display: grid;
     grid-template-columns: 1fr;
   }
+  .input-group input{
+    width: 400px;
+    padding: 8px;
+    margin-left: 2rem;
+  }
 }
