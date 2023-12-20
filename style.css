@@ -180,13 +180,10 @@ input{
   }
   .input-group{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    grid-gap: 100px;
+    grid-template-columns: 1fr;
   }
   form input{
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      grid-gap: 100px;
-      margin: 4rem;
+      grid-template-columns: 1fr;
   }
 }
